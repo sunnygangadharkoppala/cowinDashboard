@@ -1,0 +1,10 @@
+.VaccinationByGenderContainer {
+  background-color: #1c1c2b;
+  padding: 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.VaccinationByGenderHeading {
+  color: #94a3b8;
+  font-size: 28px;
+}
